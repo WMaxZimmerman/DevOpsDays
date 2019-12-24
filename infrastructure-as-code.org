@@ -1,0 +1,26 @@
+#+TITLE: Infrastructure as Code (Not Configuration) with AWS CDK
+
+* Duration
+- 45 Minutes
+
+* Audience Level
+- Intermediate
+
+* Elevator Pitch
+The AWS CDK allows us to finally write our infrastructure as code and not just as configuration. This allows us to apply
+the same level of scrutiny to infrastructure as to our code. We will go over how this will help you start to design and 
+scale the development of your cloud infrastructure.
+
+* Description
+The AWS CDK released in July of 2019. Since a little while before that, my team has been using the CDK to help enable
+developers to migrate to cloud development. We have been using the CDK to allow us to develop a distributed library that
+internal developers can use. This allows us to build in rules and regulations into the library that allow developers to
+focus on their application. It also allows us to push security and compliance updates to those developers to help ensure
+that we are able to keep up with the fast moving world of cloud development.
+
+* Tags
+- AWS
+- CDK
+- Cloud
+- Python
+- IaC
